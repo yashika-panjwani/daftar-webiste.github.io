@@ -58,7 +58,7 @@ import Login from './pages/login'; // Fix: Use PascalCase for component names
 import PlaceOrder from './pages/PlaceOrder';
 import Orders from './pages/orders'; // Fix: Use PascalCase for component names
 import Navbar from './components/Navbar';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 import SearchBar from './components/SearchBar';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
