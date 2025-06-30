@@ -3,7 +3,7 @@ import { ShopContext } from '../context/ShopContext'
 import Title from '../components/Title';
 import axios from 'axios';
 
-const orders = () => {
+const Orders = () => {
   const{backendUrl, token, currency} = useContext(ShopContext);
   const [orderData, setOrderData] = useState([])
   const loadOrderData = async () =>{
@@ -73,4 +73,4 @@ const orders = () => {
   )
 }
 
-export default orders
+export default Orders
