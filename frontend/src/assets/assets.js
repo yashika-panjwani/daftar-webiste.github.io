@@ -106,10 +106,6 @@ import p_img32 from './p_img32.jpg'
 import p_img33 from './p_img33.jpg'
 import p_img33_2 from './p_img33_2.jpg'
 import p_img33_3 from './p_img33_3.jpg'
-import p_img34 from './p_img34.JPG'
-import p_img34_2 from './p_img34_2.jpg'
-import p_img34_3 from './p_img34_3.JPG'
-import p_img34_4 from './p_img34_4.JPG'
 import p_img35 from './p_img35.jpg'
 import p_img35_2 from './p_img35_2.JPG'
 import p_img35_3 from './p_img35_3.JPG'
@@ -594,18 +590,6 @@ export const products = [
         subCategory: "OfficeWear",
         sizes: ["S", "M", "L", "XL"],
         date: 1716647545448,
-        bestseller: false
-    },
-    {
-        _id: "aaabh",
-        name: "Golden Radiance Suit",
-        description: "This Embroidered Suit adds a layer of style to any wardrobe. It's crafted from lightweight and comfortable slub fabric anThis is a mustard yellow tunic set with a flared silhouette, perfect for adding a layer of elegance to any wardrobe. The tunic features intricate embroidery, likely with subtle patterns, and is paired with a matching dupatta that has a delicate lace border, enhancing its festive appeal. The fabric appears lightweight and comfortable, as noted in the product This Embroidered Slub Tunic adds a layer of style to any wardrobe. It’s crafted from lightweight and comfortable slub fabric and features elegant embroidered detailing. The tunic is perfect for any occasion and will ensure you look fashionable and feel fabulous.",
-        price: 3000,
-        image: [p_img34,p_img34_2,p_img34_3,p_img34_4],
-        category: "Suits",
-        subCategory: "EthnicWear",
-        sizes: ["S", "M", "L", "XL"],
-        date: 1716648645448,
         bestseller: false
     },
     {
